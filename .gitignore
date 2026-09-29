@@ -1,0 +1,11 @@
+target/
+project/target/
+project/project/
+.idea/
+.bsp/
+*.iml
+.DS_Store
+# Les sorties générées peuvent être régénérées (mais on en livre un échantillon dans l'archive finale)
+output/csv/
+output/parquet/
+output/_tmp_*
